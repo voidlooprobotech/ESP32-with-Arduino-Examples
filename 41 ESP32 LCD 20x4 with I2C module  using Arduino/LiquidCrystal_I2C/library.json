@@ -1,0 +1,17 @@
+{
+  "name": "LiquidCrystal_I2C",
+  "keywords": "LCD, liquidcrystal, I2C, i2c LCD",
+  "description": "A library for I2C LCD 16x2 and 20x4 displays",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/""/LiquidCrystal_I2C.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "espressif8266",
+    "esp32"
+  ]
+}
